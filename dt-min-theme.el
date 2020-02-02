@@ -228,7 +228,7 @@
    `(highlight-indentation-face                ((t (:background ,dt-min-dark1))))
 
    ;; MODE SUPPORT: highlight-numbers
-   `(highlight-numbers-number                  ((t (:foreground ,dt-min-bright_purple :bold nil))))
+   `(highlight-numbers-number                  ((t (:foreground ,dt-min-sienna :bold nil))))
 
    ;; MODE SUPPORT: highlight-symbol
    `(highlight-symbol-face                     ((t (:foreground ,dt-min-neutral_purple))))
