@@ -155,7 +155,7 @@
    ;; Built-in syntax
    `(font-lock-builtin-face                    ((t (:foreground ,dt-min-light0))))
    `(font-lock-constant-face                   ((t (:foreground ,dt-min-burlywood4))))
-   `(font-lock-comment-face                    ((t (:foreground ,dt-min-dark4))))
+   `(font-lock-comment-face                    ((t (:foreground ,dt-min-light0_hard))))
    `(font-lock-function-name-face              ((t (:foreground ,dt-min-light4))))
    `(font-lock-keyword-face                    ((t (:foreground ,dt-min-light0))))
    `(font-lock-string-face                     ((t (:foreground ,dt-min-darkslategray4))))
