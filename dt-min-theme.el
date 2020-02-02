@@ -1,4 +1,4 @@
-;;; darktooth-theme.el --- From the darkness... it watches
+;;; dt-min-theme.el --- From the darkness... it watches
 
 ;; Copyright (c) 2015-2016 Jason Milkins (GNU/GPL Licence)
 
@@ -944,7 +944,7 @@
                   (file-name-as-directory
                    (file-name-directory load-file-name))))
 
-(provide-theme 'darktooth)
+(provide-theme 'dt-min)
 
 ;; Local Variables:
 ;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode 1))
