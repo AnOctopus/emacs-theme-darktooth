@@ -126,7 +126,7 @@
       )
 
   (custom-theme-set-faces
-   'darktooth
+   'dt-min
 
    ;; UI
    `(default                                   ((t (:foreground ,darktooth-light0 :background ,darktooth-dark0))))
@@ -681,7 +681,7 @@
    `(message-mml                                ((t (:foreground ,darktooth-faded_aqua )))))
 
   (custom-theme-set-variables
-   'darktooth
+   'dt-min
 
    `(pos-tip-foreground-color ,darktooth-light0_hard)
    `(pos-tip-background-color ,darktooth-dark_aqua)
