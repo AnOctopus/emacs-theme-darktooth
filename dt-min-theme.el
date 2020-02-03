@@ -129,7 +129,7 @@
    'dt-min
 
    ;; UI
-   `(default                                   ((t (:foreground ,dt-min-light0 :background ,dt-min-dark0))))
+   `(default                                   ((t (:foreground ,dt-min-light0 :background ,dt-min-dark0_hard))))
    `(cursor                                    ((t (:background ,dt-min-light0))))
    `(link                                      ((t (:foreground ,dt-min-bright_blue :underline t))))
    `(link-visited                              ((t (:foreground ,dt-min-bright_blue :underline nil))))
