@@ -153,11 +153,11 @@
    `(warning                                   ((t (:foreground ,dt-min-bright_red :bold t))))
 
    ;; Built-in syntax
-   `(font-lock-builtin-face                    ((t (:foreground ,dt-min-light1))))
+   `(font-lock-builtin-face                    ((t (:foreground ,dt-min-light0))))
    `(font-lock-constant-face                   ((t (:foreground ,dt-min-sienna))))
-   `(font-lock-comment-face                    ((t (:foreground ,dt-min-light0_hard))))
+   `(font-lock-comment-face                    ((t (:foreground ,dt-min-neutral_cyan))))
    `(font-lock-function-name-face              ((t (:foreground ,dt-min-light4))))
-   `(font-lock-keyword-face                    ((t (:foreground ,dt-min-light1))))
+   `(font-lock-keyword-face                    ((t (:foreground ,dt-min-light0))))
    `(font-lock-string-face                     ((t (:foreground ,dt-min-sienna))))
    `(font-lock-variable-name-face              ((t (:foreground ,dt-min-aquamarine4))))
    `(font-lock-type-face                       ((t (:foreground ,dt-min-lightblue4))))
