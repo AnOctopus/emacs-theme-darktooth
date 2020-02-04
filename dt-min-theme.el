@@ -172,7 +172,7 @@
    `(whitespace-hspace                         ((t (:foreground ,dt-min-dark4 :background ,dt-min-dark0))))
    `(whitespace-tab                            ((t (:foreground ,dt-min-dark4 :background ,dt-min-dark0))))
    `(whitespace-newline                        ((t (:foreground ,dt-min-dark4 :background ,dt-min-dark0))))
-   `(whitespace-trailing                       ((t (:foreground ,dt-min-neutral_red :background ,dt-min-dark1))))
+   `(whitespace-trailing                       ((t (:foreground ,dt-min-dark4 :background ,dt-min-dark0_hard))))
    `(whitespace-line                           ((t (:foreground ,dt-min-neutral_red :background ,dt-min-dark1))))
    `(whitespace-space-before-tab               ((t (:foreground ,dt-min-dark4 :background ,dt-min-dark0))))
    `(whitespace-indentation                    ((t (:foreground ,dt-min-dark4 :background ,dt-min-dark0))))
